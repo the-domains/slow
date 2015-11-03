@@ -1,0 +1,23 @@
+name: slow
+favicon: null
+layout_spectrum: 0.27458347543142736
+typography_spectrum: 0.5727275854442269
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6025030608288944
+  lightness: 0.01952808490023017
+  saturation: 0.3654735467862338
+  rhythmicContrast: 0.8655730073805898
+purpose: []
